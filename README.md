@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi, I'm Hyojeong!
+I'm currently learning Unreal Engine and C++ while building small projects to grow as a game developer. 🌱
 
 <!--
 **yojung51123/yojung51123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
